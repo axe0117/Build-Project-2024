@@ -4,4 +4,4 @@ This will include activity and change logs throughout the project and will be up
 
 ## About Me
 Hello, I am Adrian Erfe, a Computer Science major at Queens College. You can find the links to my other pages here:
-[LinkedIn](https://www.linkedin.com/in/adrian-erfe-664bb723a/)
+- [LinkedIn](https://www.linkedin.com/in/adrian-erfe-664bb723a/)
