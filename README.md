@@ -1,5 +1,5 @@
 # Build-Fellowship-2024
-This is the Github Repository for my 2024 Builds Project!
+This is the Github Repository for my 2024 Build Fellowship Project!
 This will include activity and change logs throughout the project and will be updated through each action.
 
 ## About Me
